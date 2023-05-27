@@ -23,7 +23,7 @@ Rear Camera  | 48 MP (wide) + 13 MP (ultrawide) + 8 MP (portrait), PDAF, dual-LE
 ***
 
 ## For building crDroid 9
-Create '.repo/local_manifests/roomservice.xml' with the following content:
+Create `.repo/local_manifests/roomservice.xml` with the following content:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
